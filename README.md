@@ -1,2 +1,3 @@
-# albion-gathering-tracker
-Tracks gathered resources in real-time.
+# GatherBuddy
+
+Tracks resources gathered on Albion Online in real-time.
