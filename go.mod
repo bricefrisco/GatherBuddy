@@ -2,7 +2,10 @@ module GatherBuddy
 
 go 1.24.5
 
-require github.com/bricefrisco/albion-listener v0.0.7
+require (
+	github.com/bricefrisco/albion-listener v0.0.7
+	github.com/gorilla/websocket v1.5.3
+)
 
 require (
 	github.com/google/gopacket v1.1.19 // indirect
